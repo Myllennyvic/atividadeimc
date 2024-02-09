@@ -32,7 +32,7 @@ body{
 .imc{
     text-align: center;
     color: brown;
-    font-size: 10px;
+    font-size: 50px;
 }
 
 .classificacao{
@@ -40,9 +40,7 @@ body{
     color: brown;
     font-size: 20px;
 }
-classificacao{
-    font-size: 100px;
-}
+
 input{
     border-radius: 10px;
     padding: 10px;
