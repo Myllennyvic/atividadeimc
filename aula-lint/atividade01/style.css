@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    background-color: blanchedalmond;
+}
+
+#form{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+#btn{
+    background-color: blanchedalmond;
+    color: black;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+label{
+    font-size: 40px;
+}
